@@ -13,7 +13,7 @@ This project presents an end-to-end **Sales Performance Analysis** for 2018, usi
 ---
 ## 📈 Dashboard Overview
 
-![Dashboard](![Dashboard Final](https://github.com/user-attachments/assets/e035d3af-8bc0-4411-b6e2-80fa95625baa))
+![Dashboard Final](https://github.com/user-attachments/assets/e035d3af-8bc0-4411-b6e2-80fa95625baa)
 
 The dashboard includes:
 - **Total Sales, Profit, and Quantity Trends**
